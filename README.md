@@ -9,3 +9,6 @@ This project in collaboration with Rushikesh Chopade Undergraduate student: Indi
 	2	https://dl.acm.org/doi/10.1145/3469213.3469214
 	3	https://dl.acm.org/doi/abs/10.1145/3469213.3469214
 	4	https://www.linkedin.com/in/aditya-stanam-07bbb819/
+
+ https://campuspress.yale.edu/shrikantpawar/files/2024/05/4th-conference-ICAIIS2021.pptx
+https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
