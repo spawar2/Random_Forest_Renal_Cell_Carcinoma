@@ -13,3 +13,5 @@ Association for Computing Machinery.
 
  https://campuspress.yale.edu/shrikantpawar/files/2024/05/4th-conference-ICAIIS2021.pptx
 https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
+Claflin University, Orangeburg, South Carolina, USA 
+https://www.claflin.edu/
