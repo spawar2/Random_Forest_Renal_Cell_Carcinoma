@@ -17,4 +17,4 @@ Claflin University, Orangeburg, South Carolina, USA.
 https://www.claflin.edu/
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 
-Grant_Analysis.R: Renal Cell cancer Microarray data read, Microarray data read, robust multi array (RMA) Normalization, data split, randomForest, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
+Grant_Analysis.R: Renal Cell cancer Microarray data read, Microarray data read, robust multi array (RMA) Normalization, data Test-Train Split, Neural, randomForest, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
