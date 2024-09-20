@@ -18,4 +18,4 @@ https://www.claflin.edu/
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 
 Grant_Analysis.R: Renal Cell cancer Microarray data read, Microarray data read, robust multi array (RMA) Normalization, data Test-Train Split, Neural, randomForest, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
-function(neuralnet, colMedians, do.call, compute, randomForest, predict, confusionMatrix, svm, ggplot, predict, table, factor, glm, wald.test, as.numeric, sum, maxmindf, na.omit, rbind, mean)
+selected function(neuralnet, colMedians, do.call, compute, randomForest, predict, confusionMatrix, svm, ggplot, predict, table, factor, glm, wald.test, as.numeric, sum, maxmindf, na.omit, rbind, mean)
