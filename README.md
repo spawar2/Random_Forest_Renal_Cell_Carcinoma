@@ -20,4 +20,4 @@ Machine learning for identification and characterization of molecular gene signa
 Grant_Analysis.R: Renal Cell cancer Microarray data read, Microarray data read, robust multi array (RMA) Normalization, data Test-Train Split, Neural, randomForest, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
 selected function(neuralnet, colMedians, do.call, compute, randomForest, predict, confusionMatrix, svm, ggplot, predict, table, factor, glm, wald.test, as.numeric, sum, maxmindf, na.omit, rbind, mean).
 
-table(testing$V2,pred_test) Prediction_test alive dead alive 214 5 dead 31 11 ((214+11)/(nrow(testing)))*100 [1] 86.2069
+table(testing$V2,pred_test) Prediction_test alive dead alive 214 5 dead 31 11 ((214+11)/(nrow(testing)))*100 [1] 86.2069.
