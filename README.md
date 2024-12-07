@@ -12,7 +12,7 @@ Association for Computing Machinery.
 	4	https://www.linkedin.com/in/aditya-stanam-07bbb819/
 
  https://campuspress.yale.edu/shrikantpawar/files/2024/05/4th-conference-ICAIIS2021.pptx
-https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
+Video presentation: https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
 Claflin University, Orangeburg, South Carolina, USA. 
 https://www.claflin.edu/
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
