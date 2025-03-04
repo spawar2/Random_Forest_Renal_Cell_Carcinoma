@@ -10,7 +10,7 @@ Association for Computing Machinery.
 	2	https://dl.acm.org/doi/10.1145/3469213.3469214
 	3	https://dl.acm.org/doi/abs/10.1145/3469213.3469214
 	4	https://www.linkedin.com/in/aditya-stanam-07bbb819/
-
+Digital Object Identifier (DOI)=Online International Standard Book Number (ISBN).
  https://campuspress.yale.edu/shrikantpawar/files/2024/05/4th-conference-ICAIIS2021.pptx
 Video presentation: https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
 Claflin University, Orangeburg, South Carolina, USA. 
