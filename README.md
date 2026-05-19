@@ -3,7 +3,8 @@
 https://github.com/rushikeshchopaderc
 https://in.linkedin.com/in/rushikesh-chopade-88470615b
 This project in collaboration with Rushikesh Chopade Undergraduate student: Indian Institute of Technology (IIT), Kharagpur, India.
-<img width="397" alt="ICAIIS 2021" src="https://github.com/spawar2/Random_Forest_Renal_Cell_Carcinoma/assets/25118302/568582b1-3aea-48c2-b9c7-06ca56461ffb">
+<img width="397" alt="ICAIIS 2021" src="https://github.com/spawar2/Random_Forest_Renal_Cell_Carcinoma/assets/25118302/568582b1-3aea-48c2-b9c7-06ca56461ffb"> <img width="1463" height="791" alt="Screenshot 2026-05-20 at 1 46 37 AM" src="https://github.com/user-attachments/assets/5c5a78f6-24df-4459-b8c7-2f22f7bf5882" />
+
 <img width="294" alt="Kidney" src="https://github.com/spawar2/Random_Forest_Renal_Cell_Carcinoma/assets/25118302/71c0edc5-e3bb-44a9-8c78-7cd322e5f71a">
 Association for Computing Machinery.
 	1	Machine learning for identification and characterization of molecular gene signatures in progression of benign tumors Publication ACM Proceedings Publication date August 23, 2021 Github Paper collaboration with Dr. Stanam, University of Iowa, Iowa City, United States of America (USA).
